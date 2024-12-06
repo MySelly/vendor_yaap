@@ -33,6 +33,7 @@ PRODUCT_PACKAGES += \
 
 # YAAP packages
 PRODUCT_PACKAGES += \
+    GameSpace \
     Aperture \
     AvatarPicker \
     Camelot \
