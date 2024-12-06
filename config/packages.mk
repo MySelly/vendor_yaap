@@ -39,7 +39,6 @@ PRODUCT_PACKAGES += \
     Camelot \
     ExactCalculator \
     Glimpse \
-    MatLog \
     TrichromeLibrary \
     TrichromeWebView \
     TrichromeChrome \
